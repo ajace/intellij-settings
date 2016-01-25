@@ -25,6 +25,11 @@
       <file name="$USER_HOME$/sites/realster/ui/app/modules/components/credit-report.ctrl.js" timestamp="1451539073856">
         <mark key="[" line="72" column="14" />
       </file>
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/modals.less" timestamp="1453759973458">
+        <mark key="[" line="55" column="26" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+      </file>
       <file name="$USER_HOME$/sites/sandata-george-static/public/Views/Patient/index.html" timestamp="1453757083097">
         <mark key="[" line="258" column="28" />
         <mark key="]" line="136" column="50" />
@@ -70,8 +75,8 @@
         <mark key="." line="19" column="17" />
         <mark key="^" line="19" column="17" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/navigational_tabs.less" timestamp="1453739651020">
-        <mark key="[" line="41" column="11" />
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/navigational_tabs.less" timestamp="1453760770525">
+        <mark key="[" line="178" column="3" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
@@ -196,11 +201,11 @@
         <mark key="]" line="121" column="12" />
         <mark key="." line="121" column="12" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Views/VisitVerification/index.html" timestamp="1453757525480">
-        <mark key="[" line="3143" column="57" />
-        <mark key="]" line="3143" column="57" />
-        <mark key="." line="3143" column="57" />
-        <mark key="^" line="3156" column="48" />
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Views/VisitVerification/index.html" timestamp="1453760844129">
+        <mark key="[" line="3163" column="106" />
+        <mark key="]" line="3164" column="0" />
+        <mark key="." line="3164" column="0" />
+        <mark key="^" line="3164" column="43" />
       </file>
       <file name="$USER_HOME$/sites/realster/ui/app/bower_components/bootstrap-ui-datetime-picker/readme.md" timestamp="1453319378136">
         <mark key="[" line="4" column="7" />
@@ -216,8 +221,8 @@
         <mark key="]" line="191" column="0" />
         <mark key="." line="191" column="0" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Scripts/app/global.js" timestamp="1453589671039">
-        <mark key="[" line="485" column="182" />
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Scripts/app/global.js" timestamp="1453760390558">
+        <mark key="[" line="8" column="11" />
         <mark key="]" line="485" column="182" />
         <mark key="." line="485" column="182" />
         <mark key="^" line="478" column="61" />
@@ -340,13 +345,11 @@
       <jump line="409" column="21" filename="$USER_HOME$/sites/sandata-george-static/public/Scripts/app/global.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>a {
-        padding-left: 0;
-      }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InNpZGUtcGFuZWwiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250ZW50Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250ZW50CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="-" type="4">
-        <text>id=&quot;horizontal-tabs</text>
+        <text>active</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXN0aGVhZFw+</text>
@@ -354,19 +357,18 @@
       <register name="0" type="4">
         <text>O</text>
       </register>
-      <register name="1" type="4">
-        <text>a {
-        padding-left: 0;
-      }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InNpZGUtcGFuZWwiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250ZW50Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250ZW50CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgID4gbGkgPiBhLCA+IGxpLmFjdGl2ZSA+IGEgewogICAgICAKICAgIH0K</text>
+      <register name="2" type="4">
+        <text>active</text>
       </register>
       <register name="3" type="4">
-        <text>id=&quot;horizontal-tabs</text>
+        <text>notes</text>
       </register>
       <register name="4" type="4">
-        <text>nav-justifie</text>
+        <text>// left panel
+                                        // right panel</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -705,22 +707,20 @@
           <key char="65535" code="127" mods="0" />
         </keys>
       </register>
-      <register name="5" type="4">
-        <text>nav-tabs-justified-2
-nav-tabs-justified-2
-nav-tabs-justified-2</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGxlZnQgcGFuZWwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIHJpZ2h0IHBhbmVsCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aDQ+U3RlcCAzPC9oND4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHA+UmVmZXJyYWw8L3A+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+      <register name="6" type="4">
+        <text>tab-pane-scroll</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aDQ+U3RlcCAyPC9oND48cD5NZWRpY2FsPC9wPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+      <register name="7" type="4">
+        <text>pushdown30</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PGRpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGg0PlN0ZXAgMTwvaDQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwPlBlcnNvbmFsPC9wPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PGxpIHJvbGU9InByZXNlbnRhdGlvbiIgZGF0YS1pbmRleD0iNCIgY2xhc3M9Im5hdi10YWJzLWp1c3RpZmllZC0yNSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSIjaC1vcHRpb240IiBhcmlhLWNvbnRyb2xzPSJoLSIgcm9sZT0idGFiIiBkYXRhLXRvZ2dsZT0idGFiIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aDQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTdGVwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA0PC9oND4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBdXRob3JpemF0aW9uPC9wPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xpPg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgewoKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>159</text>
