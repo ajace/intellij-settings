@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Views/Patient/snapshot.html" timestamp="1453741340893">
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Views/Patient/snapshot.html" timestamp="1453752452657">
         <mark key="[" line="135" column="50" />
         <mark key="]" line="135" column="50" />
         <mark key="." line="135" column="50" />
@@ -25,16 +25,12 @@
       <file name="$USER_HOME$/sites/realster/ui/app/modules/components/credit-report.ctrl.js" timestamp="1451539073856">
         <mark key="[" line="72" column="14" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/modals.less" timestamp="1452627317193">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="21" column="21" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/modals.less" timestamp="1453752101564">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1453749649510">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Views/Patient/index.html" timestamp="1453741328349">
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Views/Patient/index.html" timestamp="1453751514615">
         <mark key="[" line="136" column="50" />
         <mark key="]" line="136" column="50" />
         <mark key="." line="136" column="50" />
@@ -84,13 +80,6 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/sites/realster/ui/app/index.html" timestamp="1453319341111">
-        <mark key="'" line="173" column="35" />
-        <mark key="[" line="92" column="18" />
-        <mark key="]" line="92" column="18" />
-        <mark key="." line="92" column="18" />
-        <mark key="^" line="22" column="20" />
-      </file>
       <file name="$USER_HOME$/sites/realster/ui/app/modules/landlord/_partials/_workflow-forms/0-admin.tpl.html" timestamp="1452267964416">
         <mark key="[" line="21" column="25" />
       </file>
@@ -120,8 +109,8 @@
       <file name="$USER_HOME$/sites/realster/ui/app/services/file.svc.js" timestamp="1452782358562">
         <mark key="[" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/forms_and_inputs.less" timestamp="1453658518962">
-        <mark key="[" line="158" column="0" />
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/forms_and_inputs.less" timestamp="1453753114106">
+        <mark key="[" line="390" column="18" />
         <mark key="]" line="158" column="0" />
         <mark key="^" line="366" column="0" />
         <mark key="." line="158" column="0" />
@@ -212,10 +201,11 @@
         <mark key="]" line="121" column="12" />
         <mark key="." line="121" column="12" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Views/VisitVerification/index.html" timestamp="1453750160511">
-        <mark key="[" line="315" column="114" />
-        <mark key="]" line="315" column="114" />
-        <mark key="." line="315" column="114" />
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Views/VisitVerification/index.html" timestamp="1453752697219">
+        <mark key="[" line="3112" column="32" />
+        <mark key="]" line="3112" column="32" />
+        <mark key="." line="3112" column="32" />
+        <mark key="^" line="3086" column="51" />
       </file>
       <file name="$USER_HOME$/sites/realster/ui/app/bower_components/bootstrap-ui-datetime-picker/readme.md" timestamp="1453319378136">
         <mark key="[" line="4" column="7" />
@@ -356,10 +346,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>location.</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0idGFibGUtY2VsbCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxoNj48c3Ryb25nPlBhdGllbnQgRW1haWw8L3N0cm9uZz48L2g2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3Bhbj5jbGFya2lzY29vbEB5YWhvby5jb208L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+</text>
       </register>
       <register name="-" type="4">
-        <text>location.</text>
+        <text>addEmergencyContact</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXN0aGVhZFw+</text>
@@ -368,16 +358,21 @@
         <text>O</text>
       </register>
       <register name="1" type="4">
-        <text>location.</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0idGFibGUtY2VsbCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxoNj48c3Ryb25nPlBhdGllbnQgRW1haWw8L3N0cm9uZz48L2g2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3Bhbj5jbGFya2lzY29vbEB5YWhvby5jb208L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+</text>
       </register>
-      <register name="2" type="4">
-        <text />
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>du</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9IiNleGNlcHRpb24iIGNsYXNzPSJpY28tZXhjZXB0aW9uIj48L2E+Cg==</text>
+      <register name="4" type="4">
+        <text>#exception
+#exception
+#exception
+#exception
+#exception
+#exception</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -717,19 +712,19 @@
         </keys>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IGxlZnQgdG9wIC8gY292ZXIgbm8tcmVwZWF0CiBsZWZ0IHRvcCAvIGNvdmVyIG5vLXJlcGVhdAogbGVmdCB0b3AgLyBjb3ZlciBuby1yZXBlYXQKIGxlZnQgdG9wIC8gY292ZXIgbm8tcmVwZWF0</text>
+        <text>addEmergencyContact</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
+        <text>Step</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBmbG9hdDogbGVmdDsK</text>
+      <register name="7" type="4">
+        <text>location.</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLXNpemU6IGNvbnRhaW47Cg==</text>
+      <register name="8" type="4">
+        <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAtd2Via2l0LWJhY2tncm91bmQtc2l6ZTo7Cg==</text>
+      <register name="9" type="4">
+        <text>du</text>
       </register>
       <register name=":" type="4">
         <text>159</text>
