@@ -196,11 +196,11 @@
         <mark key="]" line="121" column="12" />
         <mark key="." line="121" column="12" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Views/VisitVerification/index.html" timestamp="1453755208642">
-        <mark key="[" line="3129" column="43" />
-        <mark key="]" line="3129" column="41" />
-        <mark key="." line="3129" column="41" />
-        <mark key="^" line="3129" column="41" />
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Views/VisitVerification/index.html" timestamp="1453756164238">
+        <mark key="[" line="3141" column="0" />
+        <mark key="]" line="3141" column="0" />
+        <mark key="." line="3141" column="0" />
+        <mark key="^" line="3143" column="33" />
       </file>
       <file name="$USER_HOME$/sites/realster/ui/app/bower_components/bootstrap-ui-datetime-picker/readme.md" timestamp="1453319378136">
         <mark key="[" line="4" column="7" />
@@ -340,10 +340,8 @@
       <jump line="409" column="21" filename="$USER_HOME$/sites/sandata-george-static/public/Scripts/app/global.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.table-cell {
-      font-size: 10px;
-    }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>addEmergencyContact</text>
@@ -354,19 +352,19 @@
       <register name="0" type="4">
         <text>O</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="3" type="4">
         <text>.table-cell {
       font-size: 10px;
     }</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text encoding="base64">PGRpdiBjbGFzcz0idGFibGUtY2VsbCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxoNj48c3Ryb25nPlBhdGllbnQgRW1haWw8L3N0cm9uZz48L2g2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3Bhbj5jbGFya2lzY29vbEB5YWhvby5jb208L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -705,7 +703,13 @@
           <key char="65535" code="127" mods="0" />
         </keys>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>#exception
 #exception
 #exception
@@ -713,17 +717,11 @@
 #exception
 #exception</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>addEmergencyContact</text>
       </register>
-      <register name="7" type="4">
-        <text>Step</text>
-      </register>
-      <register name="8" type="4">
-        <text>location.</text>
-      </register>
       <register name="9" type="4">
-        <text />
+        <text>Step</text>
       </register>
       <register name=":" type="4">
         <text>159</text>
