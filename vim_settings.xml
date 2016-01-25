@@ -25,8 +25,8 @@
       <file name="$USER_HOME$/sites/realster/ui/app/modules/components/credit-report.ctrl.js" timestamp="1451539073856">
         <mark key="[" line="72" column="14" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Views/Patient/index.html" timestamp="1453751514615">
-        <mark key="[" line="136" column="50" />
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Views/Patient/index.html" timestamp="1453757083097">
+        <mark key="[" line="258" column="28" />
         <mark key="]" line="136" column="50" />
         <mark key="." line="136" column="50" />
       </file>
@@ -196,11 +196,11 @@
         <mark key="]" line="121" column="12" />
         <mark key="." line="121" column="12" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Views/VisitVerification/index.html" timestamp="1453756164238">
-        <mark key="[" line="3141" column="0" />
-        <mark key="]" line="3141" column="0" />
-        <mark key="." line="3141" column="0" />
-        <mark key="^" line="3143" column="33" />
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Views/VisitVerification/index.html" timestamp="1453757525480">
+        <mark key="[" line="3143" column="57" />
+        <mark key="]" line="3143" column="57" />
+        <mark key="." line="3143" column="57" />
+        <mark key="^" line="3156" column="48" />
       </file>
       <file name="$USER_HOME$/sites/realster/ui/app/bower_components/bootstrap-ui-datetime-picker/readme.md" timestamp="1453319378136">
         <mark key="[" line="4" column="7" />
@@ -340,11 +340,13 @@
       <jump line="409" column="21" filename="$USER_HOME$/sites/sandata-george-static/public/Scripts/app/global.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>a {
+        padding-left: 0;
+      }</text>
       </register>
       <register name="-" type="4">
-        <text>addEmergencyContact</text>
+        <text>id=&quot;horizontal-tabs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXN0aGVhZFw+</text>
@@ -352,19 +354,19 @@
       <register name="0" type="4">
         <text>O</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="1" type="4">
+        <text>a {
+        padding-left: 0;
+      }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgID4gbGkgPiBhLCA+IGxpLmFjdGl2ZSA+IGEgewogICAgICAKICAgIH0K</text>
       </register>
       <register name="3" type="4">
-        <text>.table-cell {
-      font-size: 10px;
-    }</text>
+        <text>id=&quot;horizontal-tabs</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0idGFibGUtY2VsbCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxoNj48c3Ryb25nPlBhdGllbnQgRW1haWw8L3N0cm9uZz48L2g2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3Bhbj5jbGFya2lzY29vbEB5YWhvby5jb208L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+</text>
+        <text>nav-justifie</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -703,25 +705,22 @@
           <key char="65535" code="127" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="5" type="4">
+        <text>nav-tabs-justified-2
+nav-tabs-justified-2
+nav-tabs-justified-2</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aDQ+U3RlcCAzPC9oND4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHA+UmVmZXJyYWw8L3A+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>#exception
-#exception
-#exception
-#exception
-#exception
-#exception</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aDQ+U3RlcCAyPC9oND48cD5NZWRpY2FsPC9wPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="8" type="4">
-        <text>addEmergencyContact</text>
+        <text encoding="base64">PGRpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGg0PlN0ZXAgMTwvaDQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwPlBlcnNvbmFsPC9wPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pg==</text>
       </register>
       <register name="9" type="4">
-        <text>Step</text>
+        <text encoding="base64">PGxpIHJvbGU9InByZXNlbnRhdGlvbiIgZGF0YS1pbmRleD0iNCIgY2xhc3M9Im5hdi10YWJzLWp1c3RpZmllZC0yNSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSIjaC1vcHRpb240IiBhcmlhLWNvbnRyb2xzPSJoLSIgcm9sZT0idGFiIiBkYXRhLXRvZ2dsZT0idGFiIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aDQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTdGVwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA0PC9oND4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBdXRob3JpemF0aW9uPC9wPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xpPg==</text>
       </register>
       <register name=":" type="4">
         <text>159</text>
