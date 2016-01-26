@@ -19,8 +19,8 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/modals.less" timestamp="1453762107454">
-        <mark key="[" line="90" column="30" />
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/modals.less" timestamp="1453824668413">
+        <mark key="[" line="109" column="23" />
         <mark key="]" line="96" column="28" />
         <mark key="." line="96" column="28" />
         <mark key="^" line="96" column="28" />
@@ -47,10 +47,11 @@
         <mark key="^" line="45" column="16" />
         <mark key="." line="45" column="16" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Gruntfile.js" timestamp="1453822734921">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Gruntfile.js" timestamp="1453826572395">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="9" column="34" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/sites/realster/ui/app/scripts/app.js" timestamp="1452714284316">
         <mark key="[" line="17" column="26" />
@@ -89,11 +90,11 @@
         <mark key="^" line="366" column="0" />
         <mark key="." line="158" column="0" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Views/Staff/snapshot.html" timestamp="1453740704632">
-        <mark key="[" line="126" column="44" />
-        <mark key="]" line="126" column="44" />
-        <mark key="^" line="325" column="50" />
-        <mark key="." line="126" column="44" />
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Views/Staff/snapshot.html" timestamp="1453823759288">
+        <mark key="[" line="795" column="63" />
+        <mark key="]" line="276" column="48" />
+        <mark key="^" line="276" column="48" />
+        <mark key="." line="276" column="48" />
       </file>
       <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george.less" timestamp="1453739443174">
         <mark key="[" line="33" column="22" />
@@ -148,11 +149,16 @@
         <mark key="]" line="121" column="12" />
         <mark key="." line="121" column="12" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Views/VisitVerification/index.html" timestamp="1453762338261">
-        <mark key="[" line="3166" column="89" />
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Views/VisitVerification/index.html" timestamp="1453826659015">
+        <mark key="[" line="3182" column="89" />
         <mark key="]" line="3166" column="89" />
         <mark key="." line="3166" column="89" />
         <mark key="^" line="3166" column="88" />
+      </file>
+      <file name="$USER_HOME$/sites/sandata-george-static/public/package.json" timestamp="1453825132752">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/sites/realster/ui/app/services/credit.svc.js" timestamp="1452782328002">
         <mark key="[" line="11" column="25" />
@@ -287,10 +293,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdydW50LmxvYWROcG1UYXNrcygnZXhwcmVzcycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vZmlsZXM6ICIuL0NvbnRlbnQvbGVzcy8qKi8qLmxlc3MiLAogICAgICAgICAgICAgICAgLy90YXNrczogWyJsZXNzIl0sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>ll.</text>
+        <text>0.0.0.0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXN0aGVhZFw+</text>
@@ -299,16 +305,16 @@
         <text>O</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdydW50LmxvYWROcG1UYXNrcygnZXhwcmVzcycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vZmlsZXM6ICIuL0NvbnRlbnQvbGVzcy8qKi8qLmxlc3MiLAogICAgICAgICAgICAgICAgLy90YXNrczogWyJsZXNzIl0sCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUoJ2xvYWQtZ3J1bnQtdGFza3MnKShncnVudCk7Cg==</text>
+      <register name="2" type="4">
+        <text>0.0.0.0</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wdGlvbnM6IHsKICAgICAgICAgICAgICAgICAgICBsaXZlcmVsb2FkOiB0cnVlCiAgICAgICAgICAgICAgICB9LAo=</text>
+      <register name="3" type="4">
+        <text>express:keepalive</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUoJ21hdGNoZGVwJykuZmlsdGVyRGV2KCdncnVudC0qJykuZm9yRWFjaChncnVudC5sb2FkTnBtVGFza3MpOwo=</text>
+      <register name="4" type="4">
+        <text>__dirname</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -647,35 +653,20 @@
           <key char="65535" code="127" mods="0" />
         </keys>
       </register>
-      <register name="5" type="4">
-        <text>ll.</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICJncnVudC1leHByZXNzLXNlcnZlciI6ICJeMC41LjEiLAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>al</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGdydW50LmxvYWROcG1UYXNrcygnZ3J1bnQtY29udHJpYi1sZXNzJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGdydW50LmxvYWROcG1UYXNrcygnZ3J1bnQtY29udHJpYi13YXRjaCcpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>&quot;
-&quot;
-&quot;
-&quot;
-&quot;
-&quot;
-&quot;
-&quot;
-&quot;
-&quot;
-&quot;
-&quot;
-&quot;
-&quot;
-&quot;
-&quot;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGdydW50LmxvYWROcG1UYXNrcygnZXhwcmVzcycpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcXVpcmUoJ2xvYWQtZ3J1bnQtdGFza3MnKShncnVudCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>159</text>
