@@ -47,6 +47,11 @@
         <mark key="^" line="45" column="16" />
         <mark key="." line="45" column="16" />
       </file>
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Gruntfile.js" timestamp="1453822734921">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/sites/realster/ui/app/scripts/app.js" timestamp="1452714284316">
         <mark key="[" line="17" column="26" />
         <mark key="]" line="19" column="17" />
@@ -282,7 +287,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUoJ21hdGNoZGVwJykuZmlsdGVyRGV2KCdncnVudC0qJykuZm9yRWFjaChncnVudC5sb2FkTnBtVGFza3MpOwo=</text>
+        <text encoding="base64">ICAgIGdydW50LmxvYWROcG1UYXNrcygnZXhwcmVzcycpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>ll.</text>
@@ -294,16 +299,16 @@
         <text>O</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUoJ21hdGNoZGVwJykuZmlsdGVyRGV2KCdncnVudC0qJykuZm9yRWFjaChncnVudC5sb2FkTnBtVGFza3MpOwo=</text>
+        <text encoding="base64">ICAgIGdydW50LmxvYWROcG1UYXNrcygnZXhwcmVzcycpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>ll.</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJlcXVpcmUoJ2xvYWQtZ3J1bnQtdGFza3MnKShncnVudCk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>al</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wdGlvbnM6IHsKICAgICAgICAgICAgICAgICAgICBsaXZlcmVsb2FkOiB0cnVlCiAgICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHJlcXVpcmUoJ21hdGNoZGVwJykuZmlsdGVyRGV2KCdncnVudC0qJykuZm9yRWFjaChncnVudC5sb2FkTnBtVGFza3MpOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -643,6 +648,15 @@
         </keys>
       </register>
       <register name="5" type="4">
+        <text>ll.</text>
+      </register>
+      <register name="6" type="4">
+        <text>al</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="4">
         <text>&quot;
 &quot;
 &quot;
@@ -660,17 +674,8 @@
 &quot;
 &quot;</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGdydW50LmxvYWROcG1UYXNrcygnZ3J1bnQtY29udHJpYi1sZXNzJyk7CiAgICBncnVudC5sb2FkTnBtVGFza3MoJ2dydW50LWNvbnRyaWItd2F0Y2gnKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>159</text>
