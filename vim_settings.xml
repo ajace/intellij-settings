@@ -23,14 +23,13 @@
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/modals.less" timestamp="1453909865998">
-        <mark key="[" line="162" column="19" />
-        <mark key="]" line="162" column="17" />
-        <mark key="." line="162" column="17" />
-        <mark key="^" line="162" column="17" />
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/modals.less" timestamp="1453931766473">
+        <mark key="[" line="130" column="5" />
+        <mark key="]" line="163" column="17" />
+        <mark key="." line="163" column="17" />
+        <mark key="^" line="163" column="17" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Views/Patient/index.html" timestamp="1453925907059">
-        <mark key="[" line="2123" column="0" />
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Views/Patient/index.html" timestamp="1453930906198">
         <mark key="]" line="136" column="50" />
         <mark key="." line="136" column="50" />
       </file>
@@ -147,12 +146,9 @@
         <mark key="]" line="191" column="0" />
         <mark key="." line="191" column="0" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Scripts/app/global.js" timestamp="1453929093150">
-        <mark key="'" line="535" column="34" />
-        <mark key="[" line="41" column="24" />
-        <mark key="]" line="41" column="22" />
-        <mark key="^" line="41" column="22" />
-        <mark key="." line="41" column="22" />
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Scripts/app/global.js" timestamp="1453931197550">
+        <mark key="'" line="545" column="34" />
+        <mark key="^" line="31" column="18" />
       </file>
       <file name="$USER_HOME$/sites/realster/ui/app/modules/rewards/rewards.scss" timestamp="1452616995345">
         <mark key="[" line="134" column="0" />
@@ -263,11 +259,16 @@
       <jump line="498" column="34" filename="$USER_HOME$/sites/sandata-george-static/public/Scripts/app/global.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>//$tabPane.animate({
+                    //    scrollTop: $tabPane.offset().top - $anchorLabel.offset().top
+                    //}, 250, function(){
+                    //    //  is accordion?
+
+                    //});</text>
       </register>
       <register name="-" type="4">
-        <text>$(this).attr('id')</text>
+        <text>$anchorLabel.closest('.panel-group').find('.collapse')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXN0aGVhZFw+</text>
@@ -275,17 +276,41 @@
       <register name="0" type="4">
         <text>O</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>//$tabPane.animate({
+                    //    scrollTop: $tabPane.offset().top - $anchorLabel.offset().top
+                    //}, 250, function(){
+                    //    //  is accordion?
+
+                    //});</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLwo=</text>
+      <register name="2" type="4">
+        <text>//  should we open the accordion first?
+                        //if (typeof $anchor.collapse === 'function') { $anchor.closest('.panel-group').find('.collapse').collapse('show');
+                        //} else {
+                        //}
+
+                        
+
+                        $tabPane.animate({
+                            scrollTop: $anchorLabel.offset().top
+                        }, 250, function(){
+                            //  is accordion?
+                            if (typeof $anchor.collapse === 'function') {
+                                $anchor.closest('.panel-group').find('.collapse').collapse('show');
+                            }
+                        });</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text>var $anchorCollapse = $anchorLabel.closest('.panel-group').find('.collapse');
+                        $anchorCollapse.on('show.bs.collapse', function(e){
+                            $tabPane.scrollTop($anchorLabel.offset().top - $tabPane.offset().top);
+                        });
+
+                        $anchorCollapse.collapse('show');</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text>$anchorLabel.closest('.panel-group').find('.collapse')</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -624,22 +649,20 @@
           <key char="65535" code="127" mods="0" />
         </keys>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>$ancho</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text />
       </register>
       <register name="7" type="4">
-        <text>if (isHidden) {
-                        $(hash).hide();
-                    }</text>
+        <text />
       </register>
-      <register name="8" type="4">
-        <text>$(this).attr('id')</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="4">
-        <text>We have to show hidden elements before scrolling</text>
+        <text />
       </register>
       <register name=":" type="4">
         <text>159</text>
