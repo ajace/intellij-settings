@@ -142,11 +142,7 @@
         <mark key="]" line="191" column="0" />
         <mark key="." line="191" column="0" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Scripts/app/global.js" timestamp="1453919120497">
-        <mark key="[" line="515" column="106" />
-        <mark key="]" line="519" column="0" />
-        <mark key="." line="519" column="0" />
-      </file>
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Scripts/app/global.js" timestamp="1453920474527" />
       <file name="$USER_HOME$/sites/realster/ui/app/modules/rewards/rewards.scss" timestamp="1452616995345">
         <mark key="[" line="134" column="0" />
         <mark key="]" line="134" column="0" />
@@ -256,8 +252,29 @@
       <jump line="3799" column="62" filename="$USER_HOME$/sites/sandata-george-static/public/Views/VisitVerification/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfdGhpcy4kdmlld0xlc3NDb3VudC50ZXh0KGN1cnJlbnRQYWdlLnZpZXdMZXNzQ291bnQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>// record left marker
+                    page.leftMarker = marker;
+
+                    // record right marker
+                    page.rightMarker = i;
+                    marker = page.rightMarker;
+
+                    page.width = pageWidth;
+                    page.left = pageLeft;
+                    pageLeft = pageLeft - pageWidth;
+
+                    page.viewMoreCount = _this.columnWidths.length - i;
+
+                    if (_this.pages.length === 0) {
+                        page.viewLessCount = 0;
+                    } else {
+                        page.viewLessCount = _this.pages[_this.pages.length - 1].rightMarker;
+                    }
+
+                    _this.pages.push(page);
+
+                    pageWidth = 0 + w;</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -268,17 +285,38 @@
       <register name="0" type="4">
         <text>O</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfdGhpcy4kdmlld0xlc3NDb3VudC50ZXh0KGN1cnJlbnRQYWdlLnZpZXdMZXNzQ291bnQpOwo=</text>
+      <register name="1" type="4">
+        <text>// record left marker
+                    page.leftMarker = marker;
+
+                    // record right marker
+                    page.rightMarker = i;
+                    marker = page.rightMarker;
+
+                    page.width = pageWidth;
+                    page.left = pageLeft;
+                    pageLeft = pageLeft - pageWidth;
+
+                    page.viewMoreCount = _this.columnWidths.length - i;
+
+                    if (_this.pages.length === 0) {
+                        page.viewLessCount = 0;
+                    } else {
+                        page.viewLessCount = _this.pages[_this.pages.length - 1].rightMarker;
+                    }
+
+                    _this.pages.push(page);
+
+                    pageWidth = 0 + w;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfdGhpcy4kdmlld01vcmVDb3VudC50ZXh0KGN1cnJlbnRQYWdlLnZpZXdNb3JlQ291bnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yKGk9X3RoaXMuY29sdW1uV2lkdGhzLmxlbmd0aDsgKHBhZ2VXaWR0aCArIHcpID4gX3RoaXMudmlld2FibGVXaWR0aCwgaS0tKSB7CgogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfdGhpcy4kdmlld0xlc3NDb3VudC50ZXh0KGN1cnJlbnRQYWdlLnZpZXdMZXNzQ291bnQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfdGhpcy4kdmlld01vcmVDb3VudC50ZXh0KGN1cnJlbnRQYWdlLnZpZXdNb3JlQ291bnQpOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -618,19 +656,19 @@
         </keys>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHotaW5kZXg6IDEwMzI7ICAvLyAgZ3JlYXRlciB0aGFuIC5vdmVybGF5Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text />
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>ol</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLmNoZWNrYm94IGxhYmVsIHsKICAgICAgfQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>159</text>
