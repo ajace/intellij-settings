@@ -28,7 +28,6 @@
         <mark key="." line="162" column="17" />
         <mark key="^" line="162" column="17" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Views/Patient/index.html" timestamp="1454016984384" />
       <file name="$USER_HOME$/sites/realster/api/routes/payments.js" timestamp="1450889035543">
         <mark key="[" line="24" column="27" />
       </file>
@@ -62,11 +61,8 @@
         <mark key="." line="19" column="17" />
         <mark key="^" line="19" column="17" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/navigational_tabs.less" timestamp="1454016137480">
-        <mark key="[" line="476" column="0" />
-        <mark key="]" line="476" column="0" />
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/navigational_tabs.less" timestamp="1454020050914">
         <mark key="^" line="128" column="18" />
-        <mark key="." line="476" column="0" />
       </file>
       <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/typography_fonts_colors.less" timestamp="1454017472991">
         <mark key="[" line="37" column="41" />
@@ -92,11 +88,8 @@
       <file name="$USER_HOME$/sites/realster/ui/app/services/file.svc.js" timestamp="1452782358562">
         <mark key="[" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/forms_and_inputs.less" timestamp="1454018295003">
-        <mark key="'" line="400" column="12" />
-        <mark key="[" line="70" column="24" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/forms_and_inputs.less" timestamp="1454021111533">
+        <mark key="'" line="428" column="12" />
       </file>
       <file name="$USER_HOME$/sites/sandata-george-static/public/Views/Staff/snapshot.html" timestamp="1453996735531">
         <mark key="[" line="61" column="0" />
@@ -190,6 +183,9 @@
         <mark key="]" line="11" column="28" />
         <mark key="^" line="11" column="28" />
         <mark key="." line="11" column="28" />
+      </file>
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Scripts/app/global.js" timestamp="1453994736869">
+        <mark key="'" line="540" column="34" />
       </file>
       <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/variables.less" timestamp="1454009769882">
         <mark key="[" line="583" column="14" />
@@ -307,11 +303,11 @@
       <jump line="176" column="46" filename="$USER_HOME$/sites/sandata-george-static/public/Content/less/george.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>content: &quot;\e252&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>content: &quot;\e252&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXN0aGVhZFw+</text>
@@ -319,17 +315,17 @@
       <register name="0" type="4">
         <text>O</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="1" type="4">
+        <text>content: &quot;\e252&quot;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQ6IHJpZ2h0Owo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICA+IGxpOmZpcnN0LWNoaWxkID4gYSB7CiAgICBtYXJnaW4tbGVmdDogLTFweDsKICB9CiAgPiBsaTpsYXN0LWNoaWxkID4gYSB7CiAgICBtYXJnaW4tcmlnaHQ6IC0xcHg7CiAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>&quot;</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQ6IHJpZ2h0Owo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -672,13 +668,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>class=&quot;row-link</text>
+        <text>&quot;</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAucm93LWxpbmsgewogICAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTsKICB9Cg==</text>
+      <register name="8" type="4">
+        <text>class=&quot;row-link</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
