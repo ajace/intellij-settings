@@ -75,8 +75,8 @@
       <file name="$USER_HOME$/sites/realster/ui/app/modules/landlord/_partials/applications.tpl.html" timestamp="1451538979116">
         <mark key="[" line="26" column="73" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/buttons.less" timestamp="1454015332350">
-        <mark key="[" line="24" column="11" />
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/buttons.less" timestamp="1454021962887">
+        <mark key="[" line="11" column="0" />
         <mark key="]" line="24" column="11" />
         <mark key="." line="24" column="11" />
       </file>
@@ -88,8 +88,11 @@
       <file name="$USER_HOME$/sites/realster/ui/app/services/file.svc.js" timestamp="1452782358562">
         <mark key="[" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/forms_and_inputs.less" timestamp="1454021111533">
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/forms_and_inputs.less" timestamp="1454021951604">
         <mark key="'" line="428" column="12" />
+        <mark key="[" line="85" column="1" />
+        <mark key="]" line="85" column="1" />
+        <mark key="." line="85" column="1" />
       </file>
       <file name="$USER_HOME$/sites/sandata-george-static/public/Views/Staff/snapshot.html" timestamp="1453996735531">
         <mark key="[" line="61" column="0" />
@@ -183,9 +186,6 @@
         <mark key="]" line="11" column="28" />
         <mark key="^" line="11" column="28" />
         <mark key="." line="11" column="28" />
-      </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Scripts/app/global.js" timestamp="1453994736869">
-        <mark key="'" line="540" column="34" />
       </file>
       <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/variables.less" timestamp="1454009769882">
         <mark key="[" line="583" column="14" />
@@ -304,10 +304,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>content: &quot;\e252&quot;</text>
+        <text>wrapper-content</text>
       </register>
       <register name="-" type="4">
-        <text>content: &quot;\e252&quot;</text>
+        <text>wrapper-content</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXN0aGVhZFw+</text>
@@ -316,16 +316,16 @@
         <text>O</text>
       </register>
       <register name="1" type="4">
-        <text>content: &quot;\e252&quot;</text>
+        <text>wrapper-content</text>
       </register>
       <register name="2" type="4">
+        <text>content: &quot;\e252&quot;</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICA+IGxpOmZpcnN0LWNoaWxkID4gYSB7CiAgICBtYXJnaW4tbGVmdDogLTFweDsKICB9CiAgPiBsaTpsYXN0LWNoaWxkID4gYSB7CiAgICBtYXJnaW4tcmlnaHQ6IC0xcHg7CiAgfQ==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQ6IHJpZ2h0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -665,19 +665,19 @@
         </keys>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQ6IHJpZ2h0Owo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>&quot;</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>class=&quot;row-link</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>159</text>
