@@ -113,8 +113,11 @@
       <file name="$USER_HOME$/sites/realster/ui/app/services/file.svc.js" timestamp="1452782358562">
         <mark key="[" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/forms_and_inputs.less" timestamp="1454085140126">
-        <mark key="'" line="461" column="12" />
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/forms_and_inputs.less" timestamp="1454090696142">
+        <mark key="'" line="458" column="12" />
+        <mark key="[" line="461" column="4" />
+        <mark key="]" line="469" column="0" />
+        <mark key="." line="469" column="0" />
       </file>
       <file name="$USER_HOME$/sites/sandata-george-static/public/Views/Staff/snapshot.html" timestamp="1453996735531">
         <mark key="[" line="61" column="0" />
@@ -173,10 +176,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Views/Staff/index.html" timestamp="1454016307020">
-        <mark key="[" line="1435" column="100" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Views/Staff/index.html" timestamp="1454092795571">
+        <mark key="[" line="2747" column="34" />
+        <mark key="]" line="2747" column="34" />
+        <mark key="." line="2747" column="34" />
+        <mark key="^" line="2637" column="32" />
       </file>
       <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/type.less" timestamp="1454014524915">
         <mark key="[" line="136" column="14" />
@@ -187,6 +191,9 @@
       </file>
       <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/popovers_and_modals.less" timestamp="1452197589514">
         <mark key="[" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Scripts/plugins/jquery-fileUpload/jquery.fileupload.js" timestamp="1454091919291">
+        <mark key="[" line="2" column="48" />
       </file>
       <file name="$USER_HOME$/sites/realster/ui/app/modules/tenant/offer/offer-modal.ctrl.js" timestamp="1451336385975">
         <mark key="[" line="86" column="87" />
@@ -233,6 +240,13 @@
         <mark key="[" line="198" column="46" />
         <mark key="]" line="191" column="0" />
         <mark key="." line="191" column="0" />
+      </file>
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Scripts/app/global.js" timestamp="1454093346577">
+        <mark key="'" line="558" column="34" />
+        <mark key="[" line="428" column="0" />
+        <mark key="]" line="428" column="0" />
+        <mark key="." line="428" column="0" />
+        <mark key="^" line="428" column="0" />
       </file>
       <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/variables.less" timestamp="1454009769882">
         <mark key="[" line="583" column="14" />
@@ -355,11 +369,11 @@
       <jump line="176" column="46" filename="$USER_HOME$/sites/sandata-george-static/public/Content/less/george.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAvLyAgRG9jdW1lbnQgLyBBdHRhY2htZW50IFVwbG9hZAogICAgLy8kKCcuZmlsZS11cGxvYWQnKS5vbignY2xpY2snLCBmdW5jdGlvbihlKXsKICAgIC8vICAgIC8vIFRPRE86IHNlbGVjdCBmaWxlLCB0aGVuIHNob3cgdGhpcyBtb2RhbAogICAgLy8KCiAgICAvLwogICAgLy8gICAgZS5wcmV2ZW50RGVmYXVsdCgpOwogICAgLy8gICAgZS5zdG9wUHJvcGFnYXRpb24oKTsKICAgIC8vCiAgICAKICAgIC8vfSk7</text>
       </register>
       <register name="-" type="4">
-        <text>#adadad</text>
+        <text>Content</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXN0aGVhZFw+</text>
@@ -367,17 +381,17 @@
       <register name="0" type="4">
         <text>O</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAvLyAgRG9jdW1lbnQgLyBBdHRhY2htZW50IFVwbG9hZAogICAgLy8kKCcuZmlsZS11cGxvYWQnKS5vbignY2xpY2snLCBmdW5jdGlvbihlKXsKICAgIC8vICAgIC8vIFRPRE86IHNlbGVjdCBmaWxlLCB0aGVuIHNob3cgdGhpcyBtb2RhbAogICAgLy8KCiAgICAvLwogICAgLy8gICAgZS5wcmV2ZW50RGVmYXVsdCgpOwogICAgLy8gICAgZS5zdG9wUHJvcGFnYXRpb24oKTsKICAgIC8vCiAgICAKICAgIC8vfSk7</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ZGF0YS5jb250ZXh0ID0gJCgnPGJ1dHRvbi8+JykudGV4dCgnVXBsb2FkJykKICAgICAgICAgICAgICAgIC5hcHBlbmRUbyhkb2N1bWVudC5ib2R5KQogICAgICAgICAgICAgICAgLmNsaWNrKGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgICAgICBkYXRhLmNvbnRleHQgPSAkKCc8cC8+JykudGV4dCgnVXBsb2FkaW5nLi4uJykucmVwbGFjZUFsbCgkKHRoaXMpKTsKICAgICAgICAgICAgICAgICAgICBkYXRhLnN1Ym1pdCgpOwogICAgICAgICAgICAgICAgfSk7</text>
       </register>
       <register name="3" type="4">
-        <text>#adadad</text>
+        <text>Content</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">Jjo6LXdlYmtpdC1pbnB1dC1wbGFjZWhvbGRlciwKICAmOjotbW96LXBsYWNlaG9sZGVyLAogICY6LW1zLWlucHV0LXBsYWNlaG9sZGVyLAogICY6LW1vei1wbGFjZWhvbGRlcgogewogICAgY29sb3I6IGJsdWU7CiAgfQ==</text>
+        <text>#fileupload</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -717,19 +731,20 @@
         </keys>
       </register>
       <register name="5" type="4">
-        <text>@input-padding-left;</text>
+        <text>Save</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAmOnBsYWNlaG9sZGVy</text>
+        <text />
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>Document</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gVE9ETzogZml4IGNvbG9yIG9mIE9LIGJ1dHRvbiBpbiBmaWx0ZXJzIChhbGwgcGFnZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTYiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsPkJlbmVmaXQgSUQgIzwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJmb3JtLWNvbnRyb2wiIHR5cGU9InRleHQiIHBsYWNlaG9sZGVyPSJCZW5lZml0IElEICMiIC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC02Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbD5TdGFydCBEYXRlPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCBkYXRlLXBpY2tlciIgcGxhY2Vob2xkZXI9IlBheWVyIFN0YXJ0IERhdGUiIHR5cGU9InRleHQiIHZhbHVlPSIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtNiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWw+UmVuZXdhbCBEYXRlPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCBkYXRlLXBpY2tlciIgcGxhY2Vob2xkZXI9IlBheWVyIFN0YXJ0IERhdGUiIHR5cGU9InRleHQiIHZhbHVlPSIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>uploadAttachment-doc-category
+uploadAttachment-doc-category</text>
       </register>
       <register name=":" type="4">
         <text>159</text>
