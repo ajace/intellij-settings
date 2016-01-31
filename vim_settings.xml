@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Views/Patient/snapshot.html" timestamp="1453996665911">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="719" column="54" />
-      </file>
       <file name="$USER_HOME$/sites/realster/ui/app/modules/rewards/rewards.ctrl.js" timestamp="1452609526084">
         <mark key="[" line="129" column="24" />
       </file>
@@ -65,18 +59,6 @@
       <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/forms.less" timestamp="1454017464353">
         <mark key="[" line="121" column="20" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/typography_fonts.less" timestamp="1453735039574">
-        <mark key="[" line="45" column="18" />
-        <mark key="]" line="45" column="16" />
-        <mark key="^" line="45" column="16" />
-        <mark key="." line="45" column="16" />
-      </file>
-      <file name="$USER_HOME$/sites/realster/ui/app/scripts/app.js" timestamp="1452714284316">
-        <mark key="[" line="17" column="26" />
-        <mark key="]" line="19" column="17" />
-        <mark key="." line="19" column="17" />
-        <mark key="^" line="19" column="17" />
-      </file>
       <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/navigational_tabs.less" timestamp="1454100481105">
         <mark key="[" line="507" column="26" />
         <mark key="]" line="505" column="0" />
@@ -123,12 +105,6 @@
         <mark key="]" line="469" column="0" />
         <mark key="." line="469" column="0" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Views/Staff/snapshot.html" timestamp="1453996735531">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="277" column="48" />
-        <mark key="." line="61" column="0" />
-      </file>
       <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george.less" timestamp="1454098827511">
         <mark key="'" line="397" column="0" />
         <mark key="[" line="14" column="42" />
@@ -142,10 +118,10 @@
       <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/grids_and_spacings.less" timestamp="1452103585907">
         <mark key="[" line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/tables.less" timestamp="1454010031281">
-        <mark key="[" line="51" column="11" />
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/tables.less" timestamp="1454262363757">
+        <mark key="[" line="63" column="3" />
         <mark key="]" line="51" column="11" />
-        <mark key="^" line="241" column="24" />
+        <mark key="^" line="256" column="24" />
         <mark key="." line="51" column="11" />
       </file>
       <file name="$USER_HOME$/sites/realster/ui/app/styles/_globals.scss" timestamp="1452267402777">
@@ -169,12 +145,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/sites/realster/ui/app/services/constants.svc.js" timestamp="1452612876434">
-        <mark key="[" line="20" column="32" />
-        <mark key="]" line="3" column="16" />
-        <mark key="." line="3" column="16" />
-        <mark key="^" line="3" column="16" />
-      </file>
       <file name="$USER_HOME$/sites/realster/ui/dist/index.html" timestamp="1452717777459">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -185,11 +155,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Views/Staff/index.html" timestamp="1454102855262">
-        <mark key="[" line="1007" column="76" />
-        <mark key="]" line="1007" column="76" />
-        <mark key="." line="1007" column="76" />
-        <mark key="^" line="915" column="80" />
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Views/Staff/index.html" timestamp="1454263773600">
+        <mark key="[" line="1669" column="87" />
+        <mark key="]" line="1669" column="87" />
+        <mark key="^" line="1904" column="59" />
+        <mark key="." line="1669" column="87" />
       </file>
       <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/type.less" timestamp="1454014524915">
         <mark key="[" line="136" column="14" />
@@ -243,12 +213,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/sites/realster/ui/app/services/credit.svc.js" timestamp="1452782328002">
-        <mark key="[" line="11" column="25" />
-        <mark key="]" line="11" column="28" />
-        <mark key="^" line="11" column="28" />
-        <mark key="." line="11" column="28" />
-      </file>
       <file name="$USER_HOME$/sites/realster/ui/app/modules/about/about.ctrl.js" timestamp="1452280922275">
         <mark key="[" line="198" column="46" />
         <mark key="]" line="191" column="0" />
@@ -260,8 +224,8 @@
         <mark key="]" line="461" column="0" />
         <mark key="." line="461" column="0" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/variables.less" timestamp="1454099155302">
-        <mark key="[" line="658" column="30" />
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/variables.less" timestamp="1454262415019">
+        <mark key="[" line="738" column="30" />
         <mark key="]" line="658" column="30" />
         <mark key="." line="658" column="30" />
       </file>
@@ -269,12 +233,6 @@
         <mark key="[" line="134" column="0" />
         <mark key="]" line="134" column="0" />
         <mark key="." line="134" column="0" />
-      </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/bootstrap-override.less" timestamp="1452547743476">
-        <mark key="[" line="1" column="41" />
-        <mark key="]" line="1" column="41" />
-        <mark key="." line="1" column="41" />
-        <mark key="^" line="1" column="41" />
       </file>
       <file name="$USER_HOME$/sites/realster/ui/app/services/app.svc.js" timestamp="1452782244467">
         <mark key="[" line="12" column="21" />
@@ -384,12 +342,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.ico-notify {
-  
-}</text>
+        <text>DATE</text>
       </register>
       <register name="-" type="4">
-        <text>Client</text>
+        <text>DATE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXN0aGVhZFw+</text>
@@ -398,18 +354,16 @@
         <text>O</text>
       </register>
       <register name="1" type="4">
-        <text>.ico-notify {
-  
-}</text>
+        <text>DATE</text>
       </register>
       <register name="2" type="4">
-        <text>Client</text>
+        <text encoding="base64">b3B0aW9uIHZhbHVlPSIiPkxpdmUtSW4gU3RhdGU8L29wdGlvbj4=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">RVNUQVRVUzwvdGg=</text>
+        <text>CourseName</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">TVBMT1lNRU5UIA==</text>
+        <text>name=&quot;StaffPayrollDetail.StaffStateOfResidence</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -749,19 +703,19 @@
         </keys>
       </register>
       <register name="5" type="4">
-        <text>AdditionalNotes</text>
+        <text encoding="base64">ZGF0YS12YWw9InRydWUiIGRhdGEtdmFsLWxlbmd0aD0iVGhlIGZpZWxkIExpdmUtSW4gU3RhdGUgbXVzdCBiZSBhIHN0cmluZyB3aXRoIGEgbWF4aW11bSBsZW5ndGggb2YgMi4iIGRhdGEtdmFsLWxlbmd0aC1tYXg9IjIiIA==</text>
       </register>
       <register name="6" type="4">
-        <text>AdditionalNotes</text>
+        <text encoding="base64">PGlucHV0IGNsYXNzPSJmb3JtLWNvbnRyb2wgc3RhZmZSZXF1aXJlZCBkYXRhLXN0YWZmLXZhbC1pZ25vcmUiIGRhdGEtdmFsPSJ0cnVlIiBkYXRhLXZhbC1sZW5ndGg9IlRoZSBmaWVsZCBDZXJ0aWZpY2F0aW9uIE5hbWUgbXVzdCBiZSBhIHN0cmluZyB3aXRoIGEgbWF4aW11bSBsZW5ndGggb2YgNTAuIiBkYXRhLXZhbC1sZW5ndGgtbWF4PSI1MCIgaWQ9IkNvdXJzZU5hbWUiIG5hbWU9IkNlcnRpZmljYXRpb25OYW1lIiBwbGFjZWhvbGRlcj0iQ2VydGlmaWNhdGlvbiBOYW1lIiB0eXBlPSJ0ZXh0IiB2YWx1ZT0iIiBhcmlhLXJlcXVpcmVkPSJ0cnVlIiBtYXhsZW5ndGg9IjUwIj4=</text>
       </register>
       <register name="7" type="4">
-        <text />
+        <text>class=&quot;has-error&quot;</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text encoding="base64">ZGF0YS12YWw9InRydWUiIGRhdGEtdmFsLXJlcXVpcmVkPSJUaGUgTGl2ZS1pbj8gZmllbGQgaXMgcmVxdWlyZWQuIiA=</text>
       </register>
       <register name="9" type="4">
-        <text>disabled=&quot;disabled</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>159</text>
