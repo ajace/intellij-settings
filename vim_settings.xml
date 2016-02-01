@@ -99,11 +99,11 @@
       <file name="$USER_HOME$/sites/realster/ui/app/services/file.svc.js" timestamp="1452782358562">
         <mark key="[" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/forms_and_inputs.less" timestamp="1454090696142">
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/forms_and_inputs.less" timestamp="1454343867155">
         <mark key="'" line="458" column="12" />
-        <mark key="[" line="461" column="4" />
-        <mark key="]" line="469" column="0" />
-        <mark key="." line="469" column="0" />
+        <mark key="[" line="421" column="80" />
+        <mark key="]" line="421" column="80" />
+        <mark key="." line="421" column="80" />
       </file>
       <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george.less" timestamp="1454339501820">
         <mark key="'" line="397" column="0" />
@@ -188,12 +188,6 @@
       </file>
       <file name="$USER_HOME$/sites/sandata-george-static/public/readme.md" timestamp="1452032099899">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Views/Scheduling/schedulePatient.html" timestamp="1453996716181">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/sites/sandata-george-static/public/Views/VisitVerification/index.html" timestamp="1454011429948">
         <mark key="'" line="3822" column="62" />
@@ -339,10 +333,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY29sLW1kLTQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0ibm90ZS1kYXRlIj5EYXRlPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCBkYXRlLXBpY2tlciBzdGFmZlJlcXVpcmVkIGRhdGEtc3RhZmYtdmFsLWlnbm9yZSIgaWQ9Im5vdGUtZGF0ZSIgbmFtZT0iQ29tcGxldGlvbkRhdGUiIHBsYWNlaG9sZGVyPSJEYXRlIiB0eXBlPSJ0ZXh0IiB2YWx1ZT0iIiBhcmlhLXJlcXVpcmVkPSJ0cnVlIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4=</text>
+        <text>/ 14px 14px</text>
       </register>
       <register name="-" type="4">
-        <text>DATE</text>
+        <text>/ 14px 14px</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXN0aGVhZFw+</text>
@@ -351,16 +345,16 @@
         <text>O</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY29sLW1kLTQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0ibm90ZS1kYXRlIj5EYXRlPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCBkYXRlLXBpY2tlciBzdGFmZlJlcXVpcmVkIGRhdGEtc3RhZmYtdmFsLWlnbm9yZSIgaWQ9Im5vdGUtZGF0ZSIgbmFtZT0iQ29tcGxldGlvbkRhdGUiIHBsYWNlaG9sZGVyPSJEYXRlIiB0eXBlPSJ0ZXh0IiB2YWx1ZT0iIiBhcmlhLXJlcXVpcmVkPSJ0cnVlIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4=</text>
+        <text>/ 14px 14px</text>
       </register>
       <register name="2" type="4">
-        <text>DATE</text>
+        <text>contain</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">b3B0aW9uIHZhbHVlPSIiPkxpdmUtSW4gU3RhdGU8L29wdGlvbj4=</text>
+        <text />
       </register>
       <register name="4" type="4">
-        <text>CourseName</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29sLW1kLTQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0ibm90ZS1kYXRlIj5EYXRlPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCBkYXRlLXBpY2tlciBzdGFmZlJlcXVpcmVkIGRhdGEtc3RhZmYtdmFsLWlnbm9yZSIgaWQ9Im5vdGUtZGF0ZSIgbmFtZT0iQ29tcGxldGlvbkRhdGUiIHBsYWNlaG9sZGVyPSJEYXRlIiB0eXBlPSJ0ZXh0IiB2YWx1ZT0iIiBhcmlhLXJlcXVpcmVkPSJ0cnVlIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -700,19 +694,19 @@
         </keys>
       </register>
       <register name="5" type="4">
-        <text>name=&quot;StaffPayrollDetail.StaffStateOfResidence</text>
+        <text>DATE</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ZGF0YS12YWw9InRydWUiIGRhdGEtdmFsLWxlbmd0aD0iVGhlIGZpZWxkIExpdmUtSW4gU3RhdGUgbXVzdCBiZSBhIHN0cmluZyB3aXRoIGEgbWF4aW11bSBsZW5ndGggb2YgMi4iIGRhdGEtdmFsLWxlbmd0aC1tYXg9IjIiIA==</text>
+        <text encoding="base64">b3B0aW9uIHZhbHVlPSIiPkxpdmUtSW4gU3RhdGU8L29wdGlvbj4=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">PGlucHV0IGNsYXNzPSJmb3JtLWNvbnRyb2wgc3RhZmZSZXF1aXJlZCBkYXRhLXN0YWZmLXZhbC1pZ25vcmUiIGRhdGEtdmFsPSJ0cnVlIiBkYXRhLXZhbC1sZW5ndGg9IlRoZSBmaWVsZCBDZXJ0aWZpY2F0aW9uIE5hbWUgbXVzdCBiZSBhIHN0cmluZyB3aXRoIGEgbWF4aW11bSBsZW5ndGggb2YgNTAuIiBkYXRhLXZhbC1sZW5ndGgtbWF4PSI1MCIgaWQ9IkNvdXJzZU5hbWUiIG5hbWU9IkNlcnRpZmljYXRpb25OYW1lIiBwbGFjZWhvbGRlcj0iQ2VydGlmaWNhdGlvbiBOYW1lIiB0eXBlPSJ0ZXh0IiB2YWx1ZT0iIiBhcmlhLXJlcXVpcmVkPSJ0cnVlIiBtYXhsZW5ndGg9IjUwIj4=</text>
+        <text>CourseName</text>
       </register>
       <register name="8" type="4">
-        <text>class=&quot;has-error&quot;</text>
+        <text>name=&quot;StaffPayrollDetail.StaffStateOfResidence</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ZGF0YS12YWw9InRydWUiIGRhdGEtdmFsLXJlcXVpcmVkPSJUaGUgTGl2ZS1pbj8gZmllbGQgaXMgcmVxdWlyZWQuIiA=</text>
+        <text encoding="base64">ZGF0YS12YWw9InRydWUiIGRhdGEtdmFsLWxlbmd0aD0iVGhlIGZpZWxkIExpdmUtSW4gU3RhdGUgbXVzdCBiZSBhIHN0cmluZyB3aXRoIGEgbWF4aW11bSBsZW5ndGggb2YgMi4iIGRhdGEtdmFsLWxlbmd0aC1tYXg9IjIiIA==</text>
       </register>
       <register name=":" type="4">
         <text>159</text>
