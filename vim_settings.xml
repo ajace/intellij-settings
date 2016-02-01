@@ -105,12 +105,12 @@
         <mark key="]" line="421" column="80" />
         <mark key="." line="421" column="80" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george.less" timestamp="1454339501820">
-        <mark key="'" line="397" column="0" />
-        <mark key="[" line="109" column="16" />
-        <mark key="]" line="109" column="30" />
-        <mark key="." line="109" column="30" />
-        <mark key="^" line="109" column="30" />
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george.less" timestamp="1454347496461">
+        <mark key="'" line="405" column="0" />
+        <mark key="[" line="112" column="17" />
+        <mark key="]" line="112" column="16" />
+        <mark key="." line="112" column="16" />
+        <mark key="^" line="112" column="16" />
       </file>
       <file name="$USER_HOME$/sites/realster/Vagrantfile" timestamp="1452704428362">
         <mark key="[" line="21" column="23" />
@@ -162,6 +162,9 @@
         <mark key="[" line="136" column="14" />
       </file>
       <file name="$USER_HOME$/sites/sandata-george-static/public/Views/Scheduling/_PatientInfo.cshtml" timestamp="1453845432241" />
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/responsive-utilities.less" timestamp="1454345984029">
+        <mark key="[" line="165" column="2" />
+      </file>
       <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/george/icons.less" timestamp="1454104734666">
         <mark key="[" line="59" column="1" />
         <mark key="]" line="59" column="0" />
@@ -189,12 +192,18 @@
       <file name="$USER_HOME$/sites/sandata-george-static/public/readme.md" timestamp="1452032099899">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Views/VisitVerification/index.html" timestamp="1454011429948">
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Views/Scheduling/schedulePatient.html" timestamp="1453996716181">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+      </file>
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Views/VisitVerification/index.html" timestamp="1454345390599">
         <mark key="'" line="3822" column="62" />
-        <mark key="[" line="245" column="57" />
-        <mark key="]" line="245" column="57" />
-        <mark key="^" line="3491" column="63" />
-        <mark key="." line="245" column="57" />
+        <mark key="[" line="349" column="94" />
+        <mark key="]" line="349" column="93" />
+        <mark key="^" line="349" column="93" />
+        <mark key="." line="349" column="93" />
       </file>
       <file name="$USER_HOME$/sites/realster/ui/app/bower_components/bootstrap-ui-datetime-picker/readme.md" timestamp="1453319378136">
         <mark key="[" line="4" column="7" />
@@ -209,14 +218,14 @@
         <mark key="]" line="191" column="0" />
         <mark key="." line="191" column="0" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Scripts/app/global.js" timestamp="1454341536229">
-        <mark key="'" line="596" column="34" />
-        <mark key="[" line="396" column="5" />
-        <mark key="]" line="482" column="0" />
-        <mark key="." line="482" column="0" />
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Scripts/app/global.js" timestamp="1454349080893">
+        <mark key="'" line="609" column="34" />
+        <mark key="[" line="672" column="0" />
+        <mark key="]" line="672" column="0" />
+        <mark key="." line="672" column="0" />
       </file>
-      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/variables.less" timestamp="1454262415019">
-        <mark key="[" line="738" column="30" />
+      <file name="$USER_HOME$/sites/sandata-george-static/public/Content/less/variables.less" timestamp="1454345734808">
+        <mark key="[" line="304" column="31" />
         <mark key="]" line="658" column="30" />
         <mark key="." line="658" column="30" />
       </file>
@@ -332,11 +341,11 @@
       <jump line="399" column="0" filename="$USER_HOME$/sites/sandata-george-static/public/Content/less/george.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/ 14px 14px</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy90aGlzLnN0cmV0Y2hDb2x1bW4oKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>/ 14px 14px</text>
+        <text>resizeStuff</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXN0aGVhZFw+</text>
@@ -344,17 +353,17 @@
       <register name="0" type="4">
         <text>O</text>
       </register>
-      <register name="1" type="4">
-        <text>/ 14px 14px</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy90aGlzLnN0cmV0Y2hDb2x1bW4oKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text>contain</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text />
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogcmVpbml0aWFsaXplIG9uIHBhZ2UgcmVzaXplCiAgICAgICAgICAgIC8vIHJlc2V0IHZhcgogICAgICAgICAgICAvLyAkdGFibGUuaW5pdCgpIGFnYWluCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY29sLW1kLTQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0ibm90ZS1kYXRlIj5EYXRlPC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCBkYXRlLXBpY2tlciBzdGFmZlJlcXVpcmVkIGRhdGEtc3RhZmYtdmFsLWlnbm9yZSIgaWQ9Im5vdGUtZGF0ZSIgbmFtZT0iQ29tcGxldGlvbkRhdGUiIHBsYWNlaG9sZGVyPSJEYXRlIiB0eXBlPSJ0ZXh0IiB2YWx1ZT0iIiBhcmlhLXJlcXVpcmVkPSJ0cnVlIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -693,20 +702,20 @@
           <key char="65535" code="127" mods="0" />
         </keys>
       </register>
-      <register name="5" type="4">
-        <text>DATE</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBzYXZlIGN1cnJlbnQgbWVkaWEgcXVlcnk/Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">b3B0aW9uIHZhbHVlPSIiPkxpdmUtSW4gU3RhdGU8L29wdGlvbj4=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>CourseName</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICByZXNldCAkdGFibGVTbGlkZQogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ25ldyBicmVha3BvaW50OiAnLCBicmVha3BvaW50LnZhbHVlKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>name=&quot;StaffPayrollDetail.StaffStateOfResidence</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJyZWFrcG9pbnQudmFsdWUpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZGF0YS12YWw9InRydWUiIGRhdGEtdmFsLWxlbmd0aD0iVGhlIGZpZWxkIExpdmUtSW4gU3RhdGUgbXVzdCBiZSBhIHN0cmluZyB3aXRoIGEgbWF4aW11bSBsZW5ndGggb2YgMi4iIGRhdGEtdmFsLWxlbmd0aC1tYXg9IjIiIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>159</text>
